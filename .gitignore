@@ -1,0 +1,28 @@
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.iml
+*.log
+.project
+.metadata
+target/
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+local.properties
+.classpath
+.settings/
+.loadpath
+# Locally stored "Eclipse launch configurations"
+*.launch
+.idea/
+*.classpath
+*.project
+*.settings
+*sim.dbg*
+*sim.evt*
